@@ -36,6 +36,6 @@ https://www.anaconda.com/download/
 
 ###### ``Credits``
 
-Tutors: ``PJ Whelan`` - ``Ken Jones``
+Tutors: ``Oiliuna``
 
 ## END
